@@ -1,4 +1,7 @@
-#definindo os valores iniciais
+#A sequência de Fibonacci é uma sequência bem famosa. Decidi fazer um algoritmo que consegue reproduzi-la, porque achei isso um desafio interessante.
+#Ela funciona da seguinte forma: Um número da sequência, é a soma dos 2 números anteriores. Ou seja:
+#1, 1, 2, 3, 5, 8 . . .
+
 num1 = 1 #num1 representa o número anterior da sequência.
 num2 = 1 #num2 representa o número atual da sequência.
 
