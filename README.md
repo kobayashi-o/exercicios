@@ -1,2 +1,3 @@
-# exercicios
-Uns exercícios que eu fiz.
+## Exercícios
+
+Aí estão uns exercícios que eu fiz. 
