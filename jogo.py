@@ -46,7 +46,7 @@ if dica == 'sim':
             print('Você errou! Tente novamente.')
 
     else:
-        print('Você perdeu. A palavra era {palavra_secreta}')
+        print(f'Você perdeu. A palavra era {palavra_secreta}')
 
 elif dica == 'não' or dica == 'nao':
     print(f'A sua dica é: {dicas[palavra_secreta]}. A palavra tem {len(palavra_secreta)} letras.') 
