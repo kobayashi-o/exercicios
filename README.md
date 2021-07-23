@@ -1,3 +1,2 @@
-## Exercícios
+Nesse repositório eu subi exercícios e desafios que eu fiz, e também ideias simples que vieram na minha cabeça.
 
-Aí estão uns exercícios que eu fiz. 
