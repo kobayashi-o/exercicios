@@ -48,7 +48,7 @@ if dica == 'sim':
     else:
         print(f'Você perdeu. A palavra era {palavra_secreta}')
 
-elif dica == 'não' or dica == 'nao':
+elif dica == 'não' or dica == 'nao': #Adicionei o "or dica == 'nao' porque o meu terminal não aceitava o til nas letras.
     print(f'A sua dica é: {dicas[palavra_secreta]}. A palavra tem {len(palavra_secreta)} letras.') 
 
     for i in range(0, 5):
