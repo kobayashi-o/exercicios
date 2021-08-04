@@ -1,3 +1,7 @@
+#Esse programa pega um arquivo, lê ele e cria outro arquivo com os nomes, e quantidade de memória usados por cada pessoa organizados.
+#Exemplo: kobayashi 1234
+#Resultado no novo arquivo gerado: 1 Kobayashi 1234
+
 file = open('usuarios.txt', 'r')
 newfile = open('relatorio.txt', 'w')
 
